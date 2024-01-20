@@ -12,3 +12,9 @@ Passionate full-stack developer HTML|| CSSS || JAVASCRIPT|| REACT || C++🐍🌐
    </p>
 
 ---
+
+
+languages 🚋 and tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
